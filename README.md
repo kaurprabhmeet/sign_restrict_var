@@ -31,9 +31,9 @@ The analysis incorporates the following variables which have been obtained from 
 2. **Dickey-Fuller Test**
 3. **Sign-restricted Vector Autoregressions** 
 
-  a. **Uhlig’s Rejection Method**
-  b. **Rubio-Ramirez’s Rejection Method**
-  c. **Uhlig’s Penalty Method**
+#### a. **Uhlig’s Rejection Method**
+#### b. **Rubio-Ramirez’s Rejection Method**
+#### c. **Uhlig’s Penalty Method**
 
 5. **Variance Decomposition and Impulse Response Analysis**:
 
