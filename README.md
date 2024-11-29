@@ -30,9 +30,10 @@ The analysis incorporates the following variables which have been obtained from 
 1. **Johansen Cointegration Test**
 2. **Dickey-Fuller Test**
 3. **Sign-restricted Vector Autoregressions** 
+
   a. **Uhlig’s Rejection Method**
   b. **Rubio-Ramirez’s Rejection Method**
-  x. **Uhlig’s Penalty Method**
+  c. **Uhlig’s Penalty Method**
 
 5. **Variance Decomposition and Impulse Response Analysis**:
 
